@@ -1,0 +1,9 @@
+1. Summary of the number of students registered for exams (summary 1)
+
+2. Summary of the number of students registered for each module (summary 2)
+
+3. Summary of the number of modules being taught by the institution (trend)
+
+4. Summary of all the students writing exams (per week) (trend)
+
+5. Summary of students that submitted more than once for the same module (exception
